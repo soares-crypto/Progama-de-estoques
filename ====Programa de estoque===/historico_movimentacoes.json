@@ -1,0 +1,51 @@
+[
+    {
+        "data": "31/03/2026",
+        "tipo": "ENTRADA",
+        "produto": "Arroz",
+        "quantidade": 20,
+        "total": 110.0
+    },
+    {
+        "data": "31/03/2026",
+        "tipo": "SAÍDA",
+        "produto": "Arroz",
+        "quantidade": 5,
+        "total": 27.5
+    },
+    {
+        "data": "31/03/2026",
+        "tipo": "SAÍDA",
+        "produto": "Arroz",
+        "quantidade": 2,
+        "total": 11.0
+    },
+    {
+        "data": "31/03/2026 20:57:55",
+        "tipo": "ENTRADA",
+        "produto": "Arroz",
+        "quantidade": 51,
+        "total": 280.5
+    },
+    {
+        "data": "31/03/2026 20:58:25",
+        "tipo": "ENTRADA",
+        "produto": "Maçã",
+        "quantidade": 10,
+        "total": 22.5
+    },
+    {
+        "data": "31/03/2026 21:06:48",
+        "tipo": "ENTRADA",
+        "produto": "Maça",
+        "quantidade": 20,
+        "total": 45.0
+    },
+    {
+        "data": "21/04/2026 17:51:53",
+        "tipo": "ENTRADA",
+        "produto": "Uva",
+        "quantidade": 2,
+        "total": 5.0
+    }
+]

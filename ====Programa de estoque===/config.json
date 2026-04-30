@@ -1,0 +1,12 @@
+{
+    "acessos": {
+        "admin": {
+            "usuario": "admin",
+            "senha": "0206"
+        },
+        "comum": {
+            "usuario": "usuario",
+            "senha": "1234"
+        }
+    }
+}

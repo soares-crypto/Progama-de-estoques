@@ -1,0 +1,17 @@
+{
+    "Arroz": {
+        "quantidade": 64,
+        "preco": 5.5,
+        "validade": "30/07/2025"
+    },
+    "Maça": {
+        "quantidade": 20,
+        "preco": 2.25,
+        "validade": "15/12/2026"
+    },
+    "Uva": {
+        "quantidade": 2,
+        "preco": 2.5,
+        "validade": "30/05/2026"
+    }
+}
